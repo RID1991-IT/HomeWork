@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\bin\Debug\netcoreapp3.1\28.04.Rabota.exe
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\bin\Debug\netcoreapp3.1\28.04.Rabota.deps.json
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\bin\Debug\netcoreapp3.1\28.04.Rabota.runtimeconfig.json
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\bin\Debug\netcoreapp3.1\28.04.Rabota.runtimeconfig.dev.json
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\bin\Debug\netcoreapp3.1\28.04.Rabota.dll
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\bin\Debug\netcoreapp3.1\28.04.Rabota.pdb
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\obj\Debug\netcoreapp3.1\28.04.Rabota.csprojAssemblyReference.cache
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\obj\Debug\netcoreapp3.1\28.04.Rabota.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\obj\Debug\netcoreapp3.1\28.04.Rabota.AssemblyInfo.cs
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\obj\Debug\netcoreapp3.1\28.04.Rabota.dll
+C:\Users\User\source\repos\28.04.Rabota\28.04.Rabota\obj\Debug\netcoreapp3.1\28.04.Rabota.pdb
