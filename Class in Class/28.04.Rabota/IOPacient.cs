@@ -24,6 +24,7 @@ namespace _28._04.Rabota
             DateTime date = new DateTime(year, month, day);
             pacient = new Pacient(doctor,Name,date,Disease);
             Clear();
+            WriteLine("Test");
 
 
         }

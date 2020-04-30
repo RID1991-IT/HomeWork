@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\28.04.Rabota\\28.04.Rabota\\28.04.Rabota.csproj",
+      "projectUniqueName": "E:\\GitHub1\\HomeWork\\Class in Class\\28.04.Rabota\\28.04.Rabota.csproj",
       "projectName": "28.04.Rabota",
-      "projectPath": "C:\\Users\\User\\source\\repos\\28.04.Rabota\\28.04.Rabota\\28.04.Rabota.csproj",
+      "projectPath": "E:\\GitHub1\\HomeWork\\Class in Class\\28.04.Rabota\\28.04.Rabota.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\28.04.Rabota\\28.04.Rabota\\obj\\",
+      "outputPath": "E:\\GitHub1\\HomeWork\\Class in Class\\28.04.Rabota\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
