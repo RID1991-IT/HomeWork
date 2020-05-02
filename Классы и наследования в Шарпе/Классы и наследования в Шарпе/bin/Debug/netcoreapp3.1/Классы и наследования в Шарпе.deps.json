@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Классы и наследования в Шарпе/1.0.0": {
+        "runtime": {
+          "Классы и наследования в Шарпе.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Классы и наследования в Шарпе/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

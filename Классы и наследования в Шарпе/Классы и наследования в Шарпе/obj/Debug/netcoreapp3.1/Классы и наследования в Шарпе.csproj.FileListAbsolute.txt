@@ -1,0 +1,11 @@
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\obj\Debug\netcoreapp3.1\Классы и наследования в Шарпе.csprojAssemblyReference.cache
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\obj\Debug\netcoreapp3.1\Классы и наследования в Шарпе.AssemblyInfoInputs.cache
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\obj\Debug\netcoreapp3.1\Классы и наследования в Шарпе.AssemblyInfo.cs
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\bin\Debug\netcoreapp3.1\Классы и наследования в Шарпе.exe
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\bin\Debug\netcoreapp3.1\Классы и наследования в Шарпе.deps.json
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\bin\Debug\netcoreapp3.1\Классы и наследования в Шарпе.runtimeconfig.json
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\bin\Debug\netcoreapp3.1\Классы и наследования в Шарпе.runtimeconfig.dev.json
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\bin\Debug\netcoreapp3.1\Классы и наследования в Шарпе.dll
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\bin\Debug\netcoreapp3.1\Классы и наследования в Шарпе.pdb
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\obj\Debug\netcoreapp3.1\Классы и наследования в Шарпе.dll
+E:\ClassWork\Классы и наследования в Шарпе\Классы и наследования в Шарпе\obj\Debug\netcoreapp3.1\Классы и наследования в Шарпе.pdb
