@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Наследование в C Sharpe/1.0.0": {
+        "runtime": {
+          "Наследование в C Sharpe.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Наследование в C Sharpe/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

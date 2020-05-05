@@ -1,0 +1,11 @@
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\bin\Debug\netcoreapp3.1\Наследование в C Sharpe.exe
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\bin\Debug\netcoreapp3.1\Наследование в C Sharpe.deps.json
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\bin\Debug\netcoreapp3.1\Наследование в C Sharpe.runtimeconfig.json
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\bin\Debug\netcoreapp3.1\Наследование в C Sharpe.runtimeconfig.dev.json
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\bin\Debug\netcoreapp3.1\Наследование в C Sharpe.dll
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\bin\Debug\netcoreapp3.1\Наследование в C Sharpe.pdb
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\obj\Debug\netcoreapp3.1\Наследование в C Sharpe.csprojAssemblyReference.cache
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\obj\Debug\netcoreapp3.1\Наследование в C Sharpe.AssemblyInfoInputs.cache
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\obj\Debug\netcoreapp3.1\Наследование в C Sharpe.AssemblyInfo.cs
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\obj\Debug\netcoreapp3.1\Наследование в C Sharpe.dll
+E:\ClassWork\Наследование в C Sharpe\Наследование в C Sharpe\obj\Debug\netcoreapp3.1\Наследование в C Sharpe.pdb
