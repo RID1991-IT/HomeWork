@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj": {}
+    "E:\\GitHub1\\HomeWork\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj": {
+    "E:\\GitHub1\\HomeWork\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj",
+        "projectUniqueName": "E:\\GitHub1\\HomeWork\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj",
         "projectName": "Проверка_пароля (строка)",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj",
+        "projectPath": "E:\\GitHub1\\HomeWork\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\Проверка_пароля (строка).csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\obj\\",
+        "outputPath": "E:\\GitHub1\\HomeWork\\Проверка_пароля (строка)\\Проверка_пароля (строка)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
